@@ -1,0 +1,182 @@
+INSTNM,STABBR,ADM_RATE,ADM_RATE_ALL,SAT_AVG,SAT_AVG_ALL
+University of Alabama in Huntsville,AL,0.8203,0.820342205,1219,1219
+Auburn University,AL,0.8347,0.834650313,1215,1215
+Hendrix College,AR,0.8282,0.828228228,1244,1244
+California Institute of Technology,CA,0.0883,0.088275862,1545,1545
+California Polytechnic State University-San Luis Obispo,CA,0.3089,0.308887976,1234,1234
+University of California-Berkeley,CA,0.1602,0.160201675,1382,1382
+University of California-Davis,CA,0.4037,0.403680029,1226,1226
+University of California-Los Angeles,CA,0.1856,0.185573801,1330,1330
+University of California-San Diego,CA,0.3329,0.332874959,1313,1313
+University of California-Santa Barbara,CA,0.3634,0.363447233,1253,1253
+Chapman University,CA,0.4704,0.470376589,1210,1210
+Claremont McKenna College,CA,0.1077,0.10772795,1419,1419
+Harvey Mudd College,CA,0.1425,0.142468733,1500,1500
+Loyola Marymount University,CA,0.5271,0.527110671,1218,1218
+Middlebury Institute of International Studies at Monterey,CA,NULL,0.171690055,NULL,1379
+Occidental College,CA,0.4204,0.420359084,1300,1300
+Pepperdine University,CA,0.3546,0.354610725,1234,1234
+Pomona College,CA,0.1219,0.121910185,1454,1454
+University of San Diego,CA,0.4625,0.46248333,1243,1243
+Santa Clara University,CA,0.4935,0.493493493,1309,1309
+Scripps College,CA,0.284,0.284049284,1360,1360
+University of Southern California,CA,0.1802,0.180238829,1380,1380
+Thomas Aquinas College,CA,0.827,0.827027027,1261,1261
+University of Colorado Boulder,CO,0.8416,0.841605435,1207,1207
+Colorado School of Mines,CO,0.3647,0.364748784,1333,1333
+University of Denver,CO,0.7649,0.764886613,1231,1231
+University of Connecticut,CT,0.4996,0.503354871,1246,1228
+Rensselaer Hartford Graduate Center Inc,CT,NULL,0.375013439,NULL,1372
+Yale University,CT,0.063,0.06304151,1493,1493
+American University,DC,0.4584,0.45842979,1252,1252
+George Washington University,DC,0.4379,0.437935917,1297,1297
+Georgetown University,DC,0.1735,0.173493976,1414,1414
+Florida State University,FL,0.5539,0.553855812,1228,1228
+University of Florida,FL,0.4561,0.455243856,1273,1273
+University of Miami,FL,0.3818,0.381773321,1330,1330
+Emory University,GA,0.2682,0.268206339,1366,1366
+Georgia Institute of Technology-Main Campus,GA,0.3338,0.333835574,1400,1400
+University of Georgia,GA,0.5572,0.557175638,1248,1248
+Mercer University,GA,0.6672,0.6672,1205,1205
+University of Chicago,IL,0.0876,0.0876,1505,1505
+University of Illinois at Urbana-Champaign,IL,0.5904,0.590419295,1326,1326
+Illinois Wesleyan University,IL,0.6043,0.604318646,1249,1249
+Illinois Institute of Technology,IL,0.506,0.506041023,1266,1266
+Loyola University Chicago,IL,0.6334,0.633437837,1212,1212
+Northwestern University,IL,0.1311,0.131139752,1461,1461
+Wheaton College,IL,0.6915,0.691542289,1311,1311
+Butler University,IN,0.6846,0.684648124,1205,1205
+DePauw University,IN,0.566,0.565987934,1213,1213
+University of Notre Dame,IN,0.2114,0.211440702,1450,1450
+Rose-Hulman Institute of Technology,IN,0.5879,0.587874659,1308,1308
+Cornell College,IA,0.7363,0.736292428,1200,1200
+Drake University,IA,0.6926,0.692557134,1239,1239
+Grinnell College,IA,0.2801,0.280125454,1398,1398
+Centre College,KY,0.7157,0.715717723,1263,1263
+Transylvania University,KY,0.8262,0.826177285,1230,1230
+Tulane University of Louisiana,LA,0.2795,0.279505899,1342,1342
+Colby College,ME,0.2805,0.28049728,1333,1333
+Johns Hopkins University,MD,0.1608,0.160797072,1439,1439
+University of Maryland-Baltimore County,MD,0.5961,0.596065381,1213,1213
+University of Maryland-College Park,MD,0.4793,0.479271071,1315,1315
+St John's College,MD,0.8696,0.869565217,1323,1323
+Amherst College,MA,0.1384,0.138374425,1439,1439
+Babson College,MA,0.2631,0.263106953,1272,1272
+Bentley University,MA,0.4611,0.461147519,1247,1247
+Boston College,MA,0.3391,0.339103475,1380,1380
+Boston University,MA,0.3451,0.345100572,1300,1300
+Brandeis University,MA,0.3522,0.352159136,1369,1369
+Emerson College,MA,0.4918,0.491790102,1244,1244
+Harvard University,MA,0.0596,0.059629684,1501,1501
+University of Massachusetts-Amherst,MA,0.6139,0.613872801,1217,1217
+Massachusetts Institute of Technology,MA,0.0788,0.07882981,1500,1500
+Northeastern University,MA,0.3222,0.322206387,1420,1420
+Tufts University,MA,0.1724,0.172381252,1423,1423
+Wellesley College,MA,0.3011,0.301061571,1390,1390
+Williams College,MA,0.1932,0.193160228,1452,1452
+Kettering University,MI,0.7164,0.716446125,1223,1223
+Kalamazoo College,MI,0.6965,0.696534235,1239,1239
+University of Michigan-Ann Arbor,MI,0.3224,0.322384282,1380,1380
+Michigan Technological University,MI,0.755,0.755038153,1244,1244
+Carleton College,MN,0.2277,0.227727489,1408,1408
+Macalester College,MN,0.3635,0.363453505,1354,1354
+University of Minnesota-Twin Cities,MN,0.4535,0.452536392,1271,1268
+St Olaf College,MN,0.5128,0.512820513,1292,1292
+Missouri University of Science and Technology,MO,0.8585,0.858540677,1283,1283
+Truman State University,MO,0.7448,0.744810745,1226,1226
+Saint Louis University,MO,0.6108,0.610830173,1239,1239
+Washington University in St Louis,MO,0.1713,0.17130533,1478,1478
+Creighton University,NE,0.7267,0.726720648,1200,1200
+Dartmouth College,NH,0.115,0.115043789,1444,1444
+Princeton University,NJ,0.0744,0.074434143,1491,1491
+Stevens Institute of Technology,NJ,0.4378,0.437764933,1346,1346
+The College of New Jersey,NJ,0.4897,0.489713815,1213,1213
+Barnard College,NY,0.2377,0.237667371,1343,1343
+Colgate University,NY,0.2624,0.262360904,1369,1369
+Columbia University in the City of New York,NY,0.0695,0.069493736,1470,1470
+Cooper Union for the Advancement of Science and Art,NY,0.1506,0.150630915,1388,1388
+Cornell University,NY,0.1419,0.141854683,1422,1422
+Weill Cornell Medical College,NY,NULL,0.141854683,NULL,1422
+CUNY Bernard M Baruch College,NY,0.279,0.279036827,1235,1235
+Fordham University,NY,0.4812,0.481154673,1254,1254
+Hamilton College,NY,0.2635,0.263458884,1393,1393
+Jewish Theological Seminary of America,NY,0.6186,0.618556701,1330,1330
+New York University,NY,0.3545,0.354499646,1344,1344
+Rensselaer Polytechnic Institute,NY,0.375,0.375013439,1372,1372
+Rochester Institute of Technology,NY,0.5747,0.574654326,1240,1240
+Skidmore College,NY,0.3734,0.373399469,1241,1241
+SUNY at Binghamton,NY,0.4406,0.440563854,1287,1287
+Stony Brook University,NY,0.4134,0.413418758,1254,1254
+SUNY College at Geneseo,NY,0.5913,0.591295003,1221,1221
+Vassar College,NY,0.2354,0.235354573,1403,1403
+Webb Institute,NY,0.3299,0.329896907,1420,1420
+Yeshiva University,NY,0.818,0.817968291,1221,1221
+Davidson College,NC,0.2167,0.216726619,1337,1337
+Duke University,NC,0.1141,0.114075437,1454,1454
+Elon University,NC,0.5393,0.539308628,1225,1225
+University of North Carolina at Chapel Hill,NC,0.285,0.284980212,1328,1328
+North Carolina State University at Raleigh,NC,0.516,0.515971237,1253,1253
+Case Western Reserve University,OH,0.3831,0.383104035,1375,1375
+Kenyon College,OH,0.2506,0.250640543,1332,1332
+Miami University-Hamilton,OH,NULL,0.658353425,NULL,1240
+Miami University-Middletown,OH,NULL,0.658353425,NULL,1240
+Miami University-Oxford,OH,0.6584,0.658353425,1240,1240
+Oberlin College,OH,0.3272,0.327245053,1349,1349
+Ohio State University-Mansfield Campus,OH,NULL,0.529629227,NULL,1292
+Pontifical College Josephinum,OH,0.9412,0.941176471,1280,1280
+The College of Wooster,OH,0.5909,0.590867746,1229,1229
+University of Tulsa,OK,0.4026,0.402566789,1296,1296
+Reed College,OR,0.3873,0.387259858,1383,1383
+Willamette University,OR,0.8131,0.81305638,1209,1209
+Bryn Mawr College,PA,0.4047,0.404656319,1313,1313
+Bucknell University,PA,0.3072,0.307222787,1317,1317
+Carnegie Mellon University,PA,0.246,0.246012518,1436,1436
+Haverford College,PA,0.2469,0.246853547,1422,1422
+Lafayette College,PA,0.2975,0.297460236,1300,1300
+Lehigh University,PA,0.3427,0.342685893,1326,1326
+University of Pennsylvania,PA,0.1037,0.103663637,1452,1452
+Swarthmore College,PA,0.1702,0.170216606,1433,1433
+Villanova University,PA,0.4933,0.493346068,1313,1313
+Brown University,RI,0.0874,0.087443725,1435,1435
+Rhode Island School of Design,RI,0.3259,0.325894322,1254,1254
+Clemson University,SC,0.5152,0.515224513,1261,1261
+Rhodes College,TN,0.5999,0.599940863,1296,1296
+Vanderbilt University,TN,0.1309,0.130937055,1481,1481
+Baylor University,TX,0.5536,0.553601982,1227,1227
+University of Dallas,TX,0.8513,0.851256983,1211,1211
+Rice University,TX,0.151,0.151004061,1460,1460
+Southern Methodist University,TX,0.524,0.523990861,1316,1316
+Texas A & M University-College Station,TX,0.7103,0.710251631,1206,1206
+The University of Texas at Austin,TX,0.3966,0.396570839,1296,1296
+The University of Texas at Dallas,TX,0.6194,0.619380411,1259,1259
+Texas Christian University,TX,0.4887,0.488695754,1207,1207
+Trinity University,TX,0.4842,0.484187568,1281,1281
+Brigham Young University-Provo,UT,0.47,0.470030691,1290,1290
+Middlebury College,VT,0.1717,0.171690055,1379,1379
+College of William and Mary,VA,0.3302,0.330195162,1373,1373
+University of Richmond,VA,0.318,0.318012297,1337,1337
+Virginia Polytechnic Institute and State University,VA,0.7263,0.726330505,1215,1215
+University of Virginia-Main Campus,VA,0.29,0.290029335,1357,1357
+Washington and Lee University,VA,0.1946,0.194620524,1395,1395
+Gonzaga University,WA,0.6751,0.675090757,1207,1207
+University of Puget Sound,WA,0.7929,0.792942862,1230,1230
+University of Washington-Seattle Campus,WA,0.5521,0.57967328,1240,1206
+Whitman College,WA,0.4101,0.410073912,1323,1323
+Marquette University,WI,0.6671,0.667111009,1220,1220
+Milwaukee School of Engineering,WI,0.6865,0.686480186,1243,1243
+University of Wisconsin-Madison,WI,0.5694,0.569384386,1286,1286
+Stanford University,CA,0.0509,0.050869163,1465,1465
+Purdue University-Main Campus,IN,0.5929,0.592891518,1213,1213
+New College of Florida,FL,0.5987,0.598726115,1274,1274
+University of Washington-Bothell Campus,WA,0.7915,0.57967328,1009,1206
+University of Washington-Tacoma Campus,WA,0.8452,0.57967328,979,1206
+Soka University of America,CA,0.4346,0.434567901,1223,1223
+University of Connecticut-Stamford,CT,0.5685,0.503354871,1001,1228
+Franklin W Olin College of Engineering,MA,0.12,0.120040692,1475,1475
+DigiPen Institute of Technology,WA,0.6488,0.648769575,1211,1211
+Brite Divinity School,TX,NULL,0.488695754,NULL,1207
+University of Minnesota-Rochester,MN,0.3759,0.452536392,1112,1268
+Northeastern University Global Network,MA,NULL,0.322206387,NULL,1420
+University of Florida-Online,FL,0.2286,0.455243856,1156,1273
+Jesuit School of Theology of Santa Clara University,CA,NULL,0.493493493,NULL,1309
+Texas A & M University Health Science Center,TX,NULL,0.710251631,NULL,1206
